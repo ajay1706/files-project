@@ -1,0 +1,5 @@
+name, age,university, degree
+ajay,20 , JBIET, Information Technology
+ramya, 19, JBIET , Information Technology
+datta , 20 , IIT , Engineering Physics
+Siddartha , 21 , IIT, Mechanical Engineering
