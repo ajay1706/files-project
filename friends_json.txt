@@ -1,0 +1,20 @@
+{
+
+"friends" : [
+
+   {
+   "name": "Ajay",
+   "degree":"Information Technology"
+   },
+  {
+
+   "name": "Snehith",
+   "degree":"Computer Scioence"
+   },
+  {
+
+   "name": "Bhargav",
+   "degree":"CSE"
+   }
+   ]
+}

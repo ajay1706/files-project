@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51b2421-f964-4a18-9072-cc4ecd85e8ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/friends_json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_imports" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csv_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv_read.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csv_read.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/friends_json.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/json_imports">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,6 +75,8 @@
         <option value="$PROJECT_DIR$/csv_data.txt" />
         <option value="$PROJECT_DIR$/csv_read.py" />
         <option value="$PROJECT_DIR$/movies.py" />
+        <option value="$PROJECT_DIR$/friends_json.txt" />
+        <option value="$PROJECT_DIR$/json_imports" />
       </list>
     </option>
   </component>
@@ -101,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.csv_read">
+  <component name="RunManager" selected="Python.json_imports">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="files-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +184,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="json_imports" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="files-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_imports" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="questions_answers" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="files-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,6 +229,7 @@
     <list>
       <item itemvalue="Python.app" />
       <item itemvalue="Python.csv_read" />
+      <item itemvalue="Python.json_imports" />
       <item itemvalue="Python.friends" />
       <item itemvalue="Python.questions_answers" />
     </list>
@@ -243,15 +284,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="883" y="0" width="557" height="900" extended-state="0" />
+    <frame x="680" y="0" width="760" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23507462" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23410013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,6 +377,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friends_json.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_imports">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
