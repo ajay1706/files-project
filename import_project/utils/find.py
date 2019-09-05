@@ -1,5 +1,3 @@
-
-
 def find_in(iterable,finder,expected):
     for i in iterable:
         if finder(i) == expected:
@@ -10,4 +8,7 @@ def find_in(iterable,finder,expected):
 class NotFoundError(Exception):
     pass
 
-print(__name__)
+
+
+if __name__ == '__main__':
+   print(find_in(['ajay','sharma','ramya'], lambda x:x,'ajay'))
